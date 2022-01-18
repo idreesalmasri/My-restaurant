@@ -1,5 +1,5 @@
 ## Breakfast Menu 
-[HomePage](../README.md)
+[HomePage](./README.md)
 
 Meal#1:Price
 

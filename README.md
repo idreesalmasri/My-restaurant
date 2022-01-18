@@ -7,6 +7,6 @@ Home page
 
 | Type  |Menu linke  |
 |---|---|
-|  Breakfast |[menu link](./topic/BreakfastMenu)   |
+|  Breakfast |[menu link](./BreakfastMenu)   |
 |  lunch | Menu link |
 |  Dinner |Menu link  |
